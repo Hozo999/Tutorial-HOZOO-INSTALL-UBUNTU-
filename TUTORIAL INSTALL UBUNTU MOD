@@ -1,0 +1,27 @@
+assalamualaikum halo temen temen berjumpa lagi dengan hozoo ya cara pasang ubuntu mod nya
+
+vidio ini untuk tutorial saja tidak ilegal !
+
+bahan bahan untuk installan ubuntu mod nya pertama
+
+[1].install dulu ubuntu nya 
+pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/Install/ubuntu24.04.sh ; chmod +x ubuntu24.04.sh ; ./ubuntu24.04.sh
+
+[2]JIKA SUDAH INSTALL UBUNTU JALANKAN UBUNTUNYA CONTOH
+
+ubuntu
+
+[3].install dulu desktop nya 
+
+apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/Desktop/de-xfce.sh ; chmod +x de-xfce.sh ; ./de-xfce.sh
+
+
+TERIMAKASI UNTUK TUTORIALNYA INSTALL UBUNTU MOD VIIP 
+
+JANGAN LUPA SUBRIBE LIKE DAN KOMENTAR
+YOUTUBE SYSTEM UMBRELLA DRAK999
+
+JANGAN LUPA FOLLOW TIKTOK 
+TIKTOK SYSTEM UMBRELLA DRAK9999 
+
+VIDIO INI UNTUK TUTORIAL SAJA !
